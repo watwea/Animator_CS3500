@@ -1,4 +1,4 @@
-# Animation - CS 3500 hw05
+# Animation - CS 3500
 This is an animator built for the purposes of hw05 in CS 3500 Summer I. It can parse text files
 that contain information about the size of the animation frame, the shapes (rectangles or ellipses)
 that will move across the frame, and the key frames these shapes will go through.
