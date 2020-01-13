@@ -289,4 +289,4 @@ second by default.
 ## Authors
 * **Courtney, John, and Watwe, Aaditya**
 
-[]: https://course.ccs.neu.edu/cs3500/hw_06_assignment.html#%28part._.The_main___method%299
+[]: https://course.ccs.neu.edu/cs3500su19/hw_06_assignment.html#%28part._.The_main___method%299
