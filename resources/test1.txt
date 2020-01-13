@@ -1,0 +1,37 @@
+<svg width="720.0" height="720.0" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+
+<rect id="R" x="0.0" y="0.0" width="0.0" height="0.0" fill="rgb(0,0,0)" visibility="visible" >
+<animate attributeName="x" attributeType="XML" from="200.0" to="200.0" fill="freeze" begin="1.0s" dur="9.0s" />
+<animate attributeName="y" attributeType="XML" from="200.0" to="200.0" fill="freeze" begin="1.0s" dur="9.0s" />
+<animate attributeName="width" attributeType="XML" from="50.0" to="50.0" fill="freeze" begin="1.0s" dur="9.0s" />
+<animate attributeName="height" attributeType="XML" from="100.0" to="100.0" fill="freeze" begin="1.0s" dur="9.0s" />
+<animate attributeName="fill" attributeType="XML" from="rgb(255,0,0)" to="rgb(255,0,0)" fill="freeze" begin="1.0s" dur="9.0s" />
+
+<animate attributeName="x" attributeType="XML" from="200.0" to="300.0" fill="freeze" begin="10.0s" dur="40.0s" />
+<animate attributeName="y" attributeType="XML" from="200.0" to="300.0" fill="freeze" begin="10.0s" dur="40.0s" />
+
+
+<animate attributeName="width" attributeType="XML" from="50.0" to="25.0" fill="freeze" begin="51.0s" dur="19.0s" />
+
+<animate attributeName="x" attributeType="XML" from="300.0" to="200.0" fill="freeze" begin="70.0s" dur="30.0s" />
+<animate attributeName="y" attributeType="XML" from="300.0" to="200.0" fill="freeze" begin="70.0s" dur="30.0s" />
+
+</rect>
+<ellipse id="C" cx="0.0" cy="0.0" rx="0.0" ry="0.0" fill="rgb(0,0,0)" visibility="visible" >
+<animate attributeName="cx" attributeType="XML" from="440.0" to="440.0" fill="freeze" begin="6.0s" dur="14.0s" />
+<animate attributeName="cy" attributeType="XML" from="70.0" to="70.0" fill="freeze" begin="6.0s" dur="14.0s" />
+<animate attributeName="rx" attributeType="XML" from="60.0" to="60.0" fill="freeze" begin="6.0s" dur="14.0s" />
+<animate attributeName="ry" attributeType="XML" from="30.0" to="30.0" fill="freeze" begin="6.0s" dur="14.0s" />
+<animate attributeName="fill" attributeType="XML" from="rgb(0,0,255)" to="rgb(0,0,255)" fill="freeze" begin="6.0s" dur="14.0s" />
+
+<animate attributeName="cy" attributeType="XML" from="70.0" to="250.0" fill="freeze" begin="20.0s" dur="30.0s" />
+
+<animate attributeName="cy" attributeType="XML" from="250.0" to="370.0" fill="freeze" begin="50.0s" dur="20.0s" />
+<animate attributeName="fill" attributeType="XML" from="rgb(0,0,255)" to="rgb(0,170,85)" fill="freeze" begin="50.0s" dur="20.0s" />
+
+<animate attributeName="fill" attributeType="XML" from="rgb(0,170,85)" to="rgb(0,255,0)" fill="freeze" begin="70.0s" dur="10.0s" />
+
+
+</ellipse>
+</svg>
